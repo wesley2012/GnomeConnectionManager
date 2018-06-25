@@ -271,7 +271,7 @@ class conf():
     AUTO_CLOSE_TAB = 0
     COLLAPSED_FOLDERS = ""
     LEFT_PANEL_WIDTH = 100
-    CHECK_UPDATES=True
+    CHECK_UPDATES = False  # unable to open http://kuthulu.com/gcm/_current.html
     WINDOW_WIDTH = -1
     WINDOW_HEIGHT = -1
     FONT = ""
